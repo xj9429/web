@@ -1,2 +1,4 @@
 welcome to github 
-use the git 
+ i get it. 
+first use git status
+what is the git diff
