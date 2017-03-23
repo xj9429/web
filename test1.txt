@@ -1,5 +1,6 @@
 welcome to github 
  i get it. 
 first use git status
-AND OR
+AND and
 test 1
+different
