@@ -3,4 +3,6 @@ welcome to github
 first use git status
 what is the git diff
 xj the different  we get in
-
+AND and
+test 1
+different
